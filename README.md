@@ -9,8 +9,8 @@ It is a Multiclass Classification Problem. To create model for the same, a custo
 **NOTE:** The saved model file(AgeEstimator.h5) is not uploaded because its size exceeds the maximum limit of 25 MB.
 
 ## Custom Model
-![]
-()
+![]()
 
 ## Results
-https://github.com/Pratham-Pandey/Age_Estimator/blob/main/resources/age_estimator_output.JPG
+
+![age_estimator_output](https://user-images.githubusercontent.com/85839299/227793782-3d808bef-b186-4556-add6-f41522053387.JPG)

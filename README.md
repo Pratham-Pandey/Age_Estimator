@@ -9,7 +9,7 @@ It is a Multiclass Classification Problem. To create model for the same, a custo
 **NOTE:** The saved model file(AgeEstimator.h5) is not uploaded because its size exceeds the maximum limit of 25 MB.
 
 ## Custom Model
-![]()
+![custom_neural_network](https://github.com/Pratham-Pandey/Age_Estimator/blob/main/resources/custom_neural_network.JPG)
 
 ## Results
 

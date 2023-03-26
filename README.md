@@ -14,4 +14,4 @@ It is a Multiclass Classification Problem. To create model for the same, a custo
 
 ## Results
 ![Output]
-()
+(https://github.com/Pratham-Pandey/Age_Estimator/blob/main/resources/age_estimator_output.JPG)
